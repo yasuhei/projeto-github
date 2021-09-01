@@ -15,3 +15,5 @@ Fizemos a rota das paginas utilizando algumas importações do react como o swit
 Nessa aula, comecamos a utilizar o styled components, fizemos um componente global para remover as estilizações padrões como margin, padding, box-sizing etc.. 
 
 Importamos a nossa logo e uma imagem de background para a página inicial.
+
+![background](https://github.com/yasuhei/projeto-github/blob/main/background.jpg)
