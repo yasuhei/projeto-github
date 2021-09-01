@@ -28,6 +28,6 @@ Nessa aula demos continuidade na página dashboard, adicionamos plugins de estil
 
 # aula 4
 
-Nessa aula, consumimos a api do github, criamos uma inteface com as principais chaves, validamos o formulario para guardar seus dados.
+Nessa aula, consumimos a api do github através do metodo get, com a função assincrona,  criamos uma inteface com as principais chaves, validamos o formulario para guardar seus dados e retornar com os dados vindo da api github.
 
 ![background 4](https://github.com/yasuhei/projeto-github/blob/main/aula4.jpg)
