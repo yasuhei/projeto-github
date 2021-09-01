@@ -1,4 +1,7 @@
-*Aula 1
+#PROJETO GITHUB GOSTACK-ROCKETSEAT
+
+
+# Aula 1
 
 Nessa aula, demos inicio com o o create-react-app, limpamos todos os arquivos que não utilizamos apos a instalação.
 
