@@ -44,3 +44,16 @@ Nessa aula fizemos alguns tratamentos de erros na aplicação como o try catch, 
 Nessa aula, usamos o localStorage para que nossos dados não se percam quando atualizamos a pagina, fizemos isso com o uso do useEffect salvando a alteração do repositories, primeiro transformamos os dados em uma string, depois criamos uma const para o storage e chamamos de storageRepositories e transformamos novamente a informação em um array, fizemos também um if caso o storage estivesse preenchido retornar um json com os dados e se não tivesse preenchido retornar vazio.
 
 ![background 6](https://github.com/yasuhei/projeto-github/blob/main/aula%206.jpeg)
+
+
+
+# aula 7
+
+Nessa aula fizemos a parte de navegação entre as rotas, importamos de dentro do react-router-dom o useRouteMatch na index de repository e de dentro do useRouteMatch importamos o params, fizemos a interface para que o typescrip reconhecesse quando usamos o params.repository. 
+ Na index da Route passamos o parâmetro  da rota nesse formato  <Route path='/repositories/:repository+' component={Repository}/>, esse + sigfinica que oque vier após /:repository não seja outro parâmetro e sim a continuidade da informação da rota.
+ 
+ ![background 7](https://github.com/yasuhei/projeto-github/blob/main/aula%207.jpeg)
+
+ 
+ 
+ 
