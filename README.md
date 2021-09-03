@@ -37,3 +37,10 @@ Nessa aula, consumimos a api do github através do metodo get, com a função as
 Nessa aula fizemos alguns tratamentos de erros na aplicação como o try catch, usamos o hasError no formulario caso o cliente digitasse um nome inválido, vai aparecer uma mensagem de erro, e também estilizamos o botão com uma borda vermelha mostrando que a busca esta errada.
 
 ![background 5](https://github.com/yasuhei/projeto-github/blob/main/aula5.jpeg)
+
+
+# aula 6
+
+Nessa aula, usamos o localStorage para que nossos dados não se percam quando atualizamos a pagina, fizemos isso com o uso do useEffect salvando a alteração do repositories, primeiro transformamos os dados em uma string, depois criamos uma const para o storage e chamamos de storageRepositories e transformamos novamente a informação em um array, fizemos também um if caso o storage estivesse preenchido retornar um json com os dados e se não tivesse preenchido retornar vazio.
+
+![background 6](https://github.com/yasuhei/projeto-github/blob/main/aula%206.jpeg)
