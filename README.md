@@ -54,6 +54,12 @@ Nessa aula fizemos a parte de navegação entre as rotas, importamos de dentro d
  
  ![background 7](https://github.com/yasuhei/projeto-github/blob/main/aula%207.jpeg)
 
+ # aula 8
  
+ Nessa ultima ala, terminamos de consumir a api do github, trazendo todas as issues quando solicitada, e também finalizamos a estilização.
+ 
+ Minha melhoria vai ser colocar um botão de remover em cada issue, para melhor organização visual.
+ 
+ ![background 8](https://github.com/yasuhei/projeto-github/blob/main/api%208.jpeg)
  
  
