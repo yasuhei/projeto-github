@@ -20,6 +20,15 @@ body,input,button {
   max-width: 960px;
   margin: 0 auto;
   padding: 40px 20px ;
+
+
+@media (min-width: 768px) {
+  font-size: 18px;
+}
+
+@media (min-width: 1024px) {
+  font-size: 16;
+}
 }
 button { 
   cursor: pointer
